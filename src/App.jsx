@@ -1,6 +1,6 @@
 import  "./App.css";
 import Header from "./Header";
-import Hero from "./hero";
+import Hero from "./Hero";
 import Logoipsum from "./Logoipsum";
 import Catering from "./Catering";
 import NutritiousMeals from "./nutritiousmeals";
