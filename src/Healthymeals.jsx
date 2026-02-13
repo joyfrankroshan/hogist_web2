@@ -1,5 +1,5 @@
 import React from "react";
-import "./healthymeals.css";
+import "./Healthymeals.css";
 import img1 from "./assets/healthymeals1.jpg";
 import img2 from "./assets/healthymeals2.jpg";
 import img3 from "./assets/healthymeals3.jpg";
